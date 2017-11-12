@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://hdwallsource.com/img/2014/10/animated-gifs-30974-31705-hd-wallpapers.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+}
+@media only screen and (max-width: 500px) {
+    body {
+    }
+}
+}
+img {
+  width: 100%;
+}
+
+p {
+position: fixed;
+top: 0%;
+left: 40%;
+text-align: center;
+color: white;
+margin-bottom: 5px;
+}
